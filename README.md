@@ -1,4 +1,4 @@
 # Hello-World
 First repository
 
-This is an empty repo with no code :(
+An old programmer trying to get back up to speed with this new way of doing business
